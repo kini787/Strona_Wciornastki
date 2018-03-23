@@ -1,13 +1,13 @@
 html, body {
 	margin: 0;
-	background: #663399; /* Beccapurple */
+	background: #663300;
 }
 h1, h2, h3, h4, h5, h6, p {
 	margin: 0;
 	padding: 0;
 }
 h1, h2, h3, h4, h5, h6 {
-	color: rgb(107, 107, 132);
+	color: #663300;
 }
 body {
 	font: 100% Verdana, Geneva, sans-serif;
@@ -15,7 +15,7 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	padding: 2.5% 2.5% 0;
-	background: white;
+	background: #FFFFCC;
 	line-height: 1.8;
 	text-align: justify;
   
@@ -24,9 +24,10 @@ h1 {
 	font-size: 1.6em;
 	margin-bottom: .4em;
 	color: rgb(83, 104, 138);
+	text-align: center;
 }
 h2 {
-	font: 3.2em Georgia, "Times New Roman", Times, serif;
+	font: Verdana, "Times New Roman", Times, serif;
 	margin-bottom: .2em;
 }
 h3 {
