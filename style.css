@@ -23,11 +23,12 @@ body {
 h1 {
 	font-size: 1.6em;
 	margin-bottom: .4em;
-	color: rgb(83, 104, 138);
+	color: #663300;
 	text-align: center;
 }
 h2 {
 	font: Verdana, "Times New Roman", Times, serif;
+	font-size: 1.4em;
 	margin-bottom: .2em;
 }
 h3 {
@@ -43,9 +44,9 @@ a:hover {
 	color: rgb(120, 97, 55);
 }
 pre {
-	font-size: 1.4em;
+	font-family: Verdana;
 	color: white;
-	padding: .5em 1em;
+	padding: .2em 2em;
 	border-left: 1em solid #A68048;
 	background: #666;
 	white-space: pre-wrap;
