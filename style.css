@@ -6,12 +6,12 @@ h1, h2, h3, h4, h5, h6, p {
 	margin: 0;
 	padding: 0;
 }
-h1, h2, h3, h4, h5, h6 {
-	color: #663300;
+h2, h3, h4, h5, h6 {
+	color: #845B32;
 }
 body {
 	font: 100% Verdana, Geneva, sans-serif;
-	width: 80%;
+	width: 70%;
 	margin-right: auto;
 	margin-left: auto;
 	padding: 2.5% 2.5% 0;
@@ -28,11 +28,11 @@ h1 {
 }
 h2 {
 	font: Verdana, "Times New Roman", Times, serif;
-	font-size: 1.4em;
+	font-size: 1.2em;
 	margin-bottom: .2em;
 }
 h3 {
-	font-size: 1.2em;
+	font-size: 1em;
 }
 p {
 	margin-bottom: 1em;
@@ -45,8 +45,8 @@ a:hover {
 }
 pre {
 	font-family: Verdana;
-	color: white;
-	padding: .2em 2em;
+	color: #FFFFCC;
+	padding: 1em 1em;
 	border-left: 1em solid #A68048;
 	background: #666;
 	white-space: pre-wrap;
